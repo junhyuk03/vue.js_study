@@ -52,6 +52,7 @@
               passwardCheck: '',
               nickname: '',
               terms: false,
+              test: '',
             }
         },
     }
