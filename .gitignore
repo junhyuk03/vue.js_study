@@ -1,0 +1,3 @@
+# Project exclude paths
+/ch1/front/.nuxt/
+/ch1/front/node_modules/

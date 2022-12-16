@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "nuxt",
+    "lint": "eslint --ext .js,.vue ."
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-vue": "^6.0.0"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.8.0",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "nuxt": "^2.10.2",
+    "vue": "^2.6.10",
+    "vuetify": "^2.6.13"
+  }
+}
