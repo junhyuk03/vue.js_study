@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39625b58-bb29-4b8a-9a49-8e893381c80a" name="Vue" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\web9\Desktop\project\nodebird" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
