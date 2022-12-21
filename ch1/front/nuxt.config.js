@@ -1,4 +1,6 @@
 module.exports  = {
+    outputDir: './docs',
+    publicPath: '/<repository name>/',
     head: {
         title: 'nodebird',
     },
